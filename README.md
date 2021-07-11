@@ -23,7 +23,7 @@ use the docs for [swagger interface](http://localhost/api/v1/doc)
 there is also [redoc](http://localhost/api/v1/redoc) route
 
 ## Docker (bonus)
-run docker build with tag
+run docker compose
 ```docker
 docker-compose up
 ```
